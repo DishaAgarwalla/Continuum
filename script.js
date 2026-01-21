@@ -1471,4 +1471,5 @@ function importDecisions() {
     };
     
     input.click();
+
 }
