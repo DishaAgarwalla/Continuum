@@ -1,5 +1,5 @@
 // script.js
-// =======================
+
 // INITIALIZATION
 // =======================
 document.addEventListener('DOMContentLoaded', function() {
@@ -1473,4 +1473,5 @@ function importDecisions() {
     input.click();
 
 }
+
 
