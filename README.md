@@ -32,18 +32,6 @@ The goal is to enable context-aware assistance over time by maintaining structur
 
 ---
 
-## 📂 Project Structure
-continuum/
-│
-├── index.html # Decision Capture
-├── timeline.html # Decision Timeline
-├── recall.html # AI Insight Engine
-│
-├── style.css # UI Styling
-├── script.js # Memory & Insight Logic
-
-
----
 
 ## ▶️ How to Run
 
