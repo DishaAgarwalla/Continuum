@@ -1,5 +1,5 @@
 # 🧠 Continuum – Human–AI Memory Continuity System
-  
+   
 Continuum is a lightweight web-based system designed to preserve the context behind human decisions. Instead of storing only the final outcome, it captures the intent, constraints, alternatives, and reasoning that influenced each choice.
 
 The goal is to enable context-aware assistance over time by maintaining structured decision memory.
